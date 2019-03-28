@@ -4,8 +4,9 @@ Sobre a instalação do package.json:
 
 Obs.: Precisa ter o node.js .
 
-2º: Digitar npm install;
+2º: Digitar "npm install";
 
-Surgirá uma pasta node_modules. (essa pasta é intransferível)
+Surgirá uma pasta node_modules na pasta do projeto. (essa pasta é intransferível de computador p/ computador)
+Essa pasta node_modules tem que ser gerada/copiada em todos os projetos feitos.
 
 3º: 
